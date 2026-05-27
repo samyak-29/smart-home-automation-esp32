@@ -112,12 +112,11 @@ The `.aia` source file is included in this repo — import it into [MIT App Inve
 
 ```
 smart-home-automation/
-├── smart_home_automation.ino   # Main ESP32 firmware
-├── smart_home_automation.aia   # MIT App Inventor source file
-├── circuit_diagram.png         # Wiring diagram (add yours here)
-├── demo/
-│   └── demo_photo.jpg          # Hardware photo (add yours here)
+├── smart_home_automation.ino.ino   # Main ESP32 firmware
+├── smart_home_automation_updated.aia   # MIT App Inventor source
+├── demo.jpg.jpeg                   # Hardware setup photo
 └── README.md
+└── WIRING.md                   # Complete wiring & power setup guide
 ```
 
 ---
