@@ -124,7 +124,7 @@ smart-home-automation/
 
 ## 🔬 Research Context
 
-This project was developed as part of a Minor Project at **SRM Institute of Science and Technology** under the guidance of **Dr. Sarada V.** (Dept. of ECE). A companion Major Project on nanomaterial-based mercury ion sensing using functionalized rGO was submitted for publication to **IEEE Sensors Journal** (under review, 2026).
+This project was developed as part of a Minor Project at **SRM Institute of Science and Technology** under the guidance of **Dr. Sarada V.** (Dept. of ECE).
 
 ---
 
